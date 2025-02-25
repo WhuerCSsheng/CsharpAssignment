@@ -1,0 +1,14 @@
+D:\Whuersheng\Desktop\newtest\calcultator\bin\Debug\net7.0\calcultator.exe
+D:\Whuersheng\Desktop\newtest\calcultator\bin\Debug\net7.0\calcultator.deps.json
+D:\Whuersheng\Desktop\newtest\calcultator\bin\Debug\net7.0\calcultator.runtimeconfig.json
+D:\Whuersheng\Desktop\newtest\calcultator\bin\Debug\net7.0\calcultator.dll
+D:\Whuersheng\Desktop\newtest\calcultator\bin\Debug\net7.0\calcultator.pdb
+D:\Whuersheng\Desktop\newtest\calcultator\obj\Debug\net7.0\calcultator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Whuersheng\Desktop\newtest\calcultator\obj\Debug\net7.0\calcultator.AssemblyInfoInputs.cache
+D:\Whuersheng\Desktop\newtest\calcultator\obj\Debug\net7.0\calcultator.AssemblyInfo.cs
+D:\Whuersheng\Desktop\newtest\calcultator\obj\Debug\net7.0\calcultator.csproj.CoreCompileInputs.cache
+D:\Whuersheng\Desktop\newtest\calcultator\obj\Debug\net7.0\calcultator.dll
+D:\Whuersheng\Desktop\newtest\calcultator\obj\Debug\net7.0\refint\calcultator.dll
+D:\Whuersheng\Desktop\newtest\calcultator\obj\Debug\net7.0\calcultator.pdb
+D:\Whuersheng\Desktop\newtest\calcultator\obj\Debug\net7.0\calcultator.genruntimeconfig.cache
+D:\Whuersheng\Desktop\newtest\calcultator\obj\Debug\net7.0\ref\calcultator.dll
