@@ -1,0 +1,10 @@
+D:\Whuersheng\Desktop\Assisnment1\Calculator_Window\bin\Debug\Calculator_Window.exe.config
+D:\Whuersheng\Desktop\Assisnment1\Calculator_Window\bin\Debug\Calculator_Window.exe
+D:\Whuersheng\Desktop\Assisnment1\Calculator_Window\bin\Debug\Calculator_Window.pdb
+D:\Whuersheng\Desktop\Assisnment1\Calculator_Window\obj\Debug\Calculator_Window.csproj.AssemblyReference.cache
+D:\Whuersheng\Desktop\Assisnment1\Calculator_Window\obj\Debug\Calculator_Window.Form1.resources
+D:\Whuersheng\Desktop\Assisnment1\Calculator_Window\obj\Debug\Calculator_Window.Properties.Resources.resources
+D:\Whuersheng\Desktop\Assisnment1\Calculator_Window\obj\Debug\Calculator_Window.csproj.GenerateResource.cache
+D:\Whuersheng\Desktop\Assisnment1\Calculator_Window\obj\Debug\Calculator_Window.csproj.CoreCompileInputs.cache
+D:\Whuersheng\Desktop\Assisnment1\Calculator_Window\obj\Debug\Calculator_Window.exe
+D:\Whuersheng\Desktop\Assisnment1\Calculator_Window\obj\Debug\Calculator_Window.pdb
