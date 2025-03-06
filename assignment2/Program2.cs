@@ -5,7 +5,7 @@ namespace myarray
 {
     class solution2
     {
-        static void myToInt(string sNum,out int myNum) 
+        static void myToInt(string sNum,out int myNum) //将string转化成int，进行异常处理
         {
             bool is_a_int = int.TryParse(sNum, out int num);
             if (!is_a_int)
@@ -17,7 +17,7 @@ namespace myarray
         }
         
 
-        static void stringToDigArr(string sarr, int[] tarr) 
+        static void stringToDigArr(string sarr, int[] tarr) //将string转化成int数组
         {
             int n = tarr.Length;
             int[] flags = new int[n - 1];
@@ -33,7 +33,7 @@ namespace myarray
                 index++;
             }
 
-            myToInt((sarr.Substring(0, flags[0])), out int num1);
+            myToInt((sarr.Substring(0, flags[0])), out int num1); 
             tarr[0] = num1;
             myToInt((sarr.Substring(flags[n - 2], sarr.Length - flags[n - 2] - 1)), out int numN);
             tarr[n - 1] = numN;
@@ -46,7 +46,7 @@ namespace myarray
         }
 
 
-        static int sumOfArr(int[] arr, out int ave)
+        static int sumOfArr(int[] arr, out int ave)//求数组的和及平均值
         {
             int sum = 0;
             foreach (var item in arr)
@@ -58,7 +58,7 @@ namespace myarray
         }
 
 
-        static void getMax_Min(int[] arr,out int max,out int min)
+        static void getMax_Min(int[] arr,out int max,out int min)//求数组的最大最小值
         {
             max = arr[0];
             min= arr[0];
